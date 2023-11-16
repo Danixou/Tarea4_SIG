@@ -1,0 +1,18 @@
+<PAMDataset>
+  <GeoTransform> -8.5944077199999995e+01,  1.0013486126126096e-02,  0.0000000000000000e+00,  1.1222161509999999e+01,  0.0000000000000000e+00, -9.9945483280757079e-03</GeoTransform>
+  <Metadata>
+    <MDI key="SOFTWARE">GRASS GIS 8.3.0 with GDAL 3.7.0</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>aspect@PERMANENT</Description>
+    <NoDataValue le_hex_equiv="000000000000F87F">nan</NoDataValue>
+    <Metadata>
+      <MDI key="COLOR_TABLE_RULES_COUNT">5</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_0">0.000000e+00 1.000000e+00 255 255 255 255 255 0</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_1">1.000000e+00 9.000000e+01 255 255 0 0 255 0</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_2">9.000000e+01 1.800000e+02 0 255 0 0 255 255</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_3">1.800000e+02 2.700000e+02 0 255 255 255 0 0</MDI>
+      <MDI key="COLOR_TABLE_RULE_RGB_4">2.700000e+02 3.600000e+02 255 0 0 255 255 0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
